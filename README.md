@@ -22,6 +22,23 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 # Executive Summary
 
-# Insights Deep Dive
+##__Overview of Findings__
+
+Overall ridership has been steadlily increasing over the entire four year period by an average of x% per year as well as an increase of $ revenue generated per trip in 2016 to $ in 2019. The bike share also shows great disparity between the most successful and least successful stations based off total revenue generated, total trips and revenue per bike dock. Outside of Harvard and MIT, where the majority of customers are subscriber based, there are two main hubs that operate out of Boston's South Central Station and Central Square in Cambridge. The former representing the largest transit hub in the city and the latter being a popular destination amongst tourists. 
+
+**Insert Gif********
+
+##__Station Usage__
+
+- The top 10 performing stations are all near either MIT or Harvard
+- There is a clear corelation between trips and revenue, although, several outliers are present due to the makeup of subscribers vs single ride users
+**Insert first dash on power bi****
+- Outtside of the universities there are two main hubs: Central Station and Central Square
+- There are also several stations that operate near shorelines and bike baths that act as both a starting and ending station
+**insert spider web from tableau**
+
+##__Comparison Analysis__
+- The 5 worst performing stations generate less than 10% of the average revenue of the top performing stations
+- Most notably, Central Sqaure and Glendan st both have 19 bike docks while the former had 101,992 trips and the latter just 392
 
 # Recommendations
