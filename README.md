@@ -25,7 +25,7 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 # Executive Summary
 
-##__Overview of Findings__
+## __Overview of Findings__
 
 Overall ridership has been steadlily increasing over the entire four year period by an average of 11% per year as well as an increase of $11.45 revenue generated per trip in 2016 to $14.61 in 2019. The bike share also shows great disparity between the most successful and least successful stations based off total revenue generated, total trips and revenue per bike dock. Outside of Harvard and MIT, where the majority of customers are subscriber based, there are two main hubs that operate out of Boston's South Central Station and Central Square in Cambridge. The former representing the largest transit hub in the city and the latter being a popular destination amongst tourists. 
 
@@ -35,10 +35,14 @@ Overall ridership has been steadlily increasing over the entire four year period
 
 - The top 10 performing stations are all near either MIT or Harvard
 - There is a clear corelation between trips and revenue, although, several outliers are present due to the makeup of subscribers vs single ride users
-**Insert first dash on power bi****
+
+![image](https://github.com/user-attachments/assets/c0636090-8325-4626-a58e-721039ecd143)
+  
 - Outtside of the universities there are two main hubs: Central Station and Central Square
 - There are also several stations that operate near shorelines and bike baths that act as both a starting and ending station
-**insert spider web from tableau**
+
+![image](https://github.com/user-attachments/assets/373d421d-2511-42f0-a104-b9e7e88d26b4)
+
 
 ## __Comparison Analysis__
 - The 5 worst performing stations generate less than 10% of the average revenue of the top performing stations
@@ -52,7 +56,9 @@ Overall ridership has been steadlily increasing over the entire four year period
   3. Chelsea St
   4. Glendon St
   5. Four Corners
-  ***Insert connors fav graph***
+
+  ![image](https://github.com/user-attachments/assets/bb7caeec-bd46-437e-bd48-0d7f00e86c79)
+
 
 # Recommendations
 
@@ -63,3 +69,6 @@ Based on the analysis of the data the following reccomendations have been provid
 - If preexisting stations cannot accomadate additional bike docks due to space restrictions then nearby stations should be created
 
 This will result in increased revenues of up tp 500% for the newly relocated bike costs while incurring no additional operating costs once the bikes have been moved.
+
+![image](https://github.com/user-attachments/assets/fce52731-3ff7-43a2-89ab-1d902575d945)
+
