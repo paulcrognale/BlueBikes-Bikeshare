@@ -29,8 +29,6 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 Overall ridership has been steadily increasing over the entire four year period by an average of 11% per year as well as an increase of $11.45 revenue generated per trip in 2016 to $14.61 in 2019. The bike share also shows great disparity between the most successful and least successful stations based off total revenue generated, total trips and revenue per bike dock. Outside of Harvard and MIT, where the majority of customers are subscriber based, there are two main hubs that operate out of Boston's South Central Station and Central Square in Cambridge. The former representing the largest transit hub in the city and the latter being a popular destination amongst tourists. 
 
-**Insert Gif********
-
 ## __Station Usage__
 
 - The top 10 performing stations are all near either MIT or Harvard
