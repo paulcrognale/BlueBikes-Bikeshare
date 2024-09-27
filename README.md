@@ -48,6 +48,10 @@ Overall ridership has been steadily increasing over the entire four year period 
 - The 5 worst performing stations generate less than 10% of the average revenue of the top performing stations
 - Most notably, Central Square and Glendan St both have 19 bike docks while the former had 101,992 trips and the latter just 392
 
+![image](https://github.com/user-attachments/assets/50715207-cf9d-4eda-a95a-9625cf718e89)![image](https://github.com/user-attachments/assets/adfb34b8-c20f-4a8e-a689-596deab8ddbf)
+
+
+
 ## __Resource Reallocation__
 - The top 10 worst performing stations for each were then tracked over the entire time series to identify potential targets for retirement
 - All stations have at least 3 years of time on the grid, consistently rank among the lowest each year and have negative growth rates:
