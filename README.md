@@ -18,6 +18,9 @@ The SQL queries regarding various business questions can be found [here](https:/
 # Data Structure Overview
 Blue Bikes data structure as seen below consists of five tables: bluebikes_stations, bluebikes_2016, bluebikes_2017, bluebikes_2018, bluebikes_2019 with a total row count of 6,840,320 records.
 
+![image](https://github.com/user-attachments/assets/6e9bf09d-c480-4abf-b117-618ba617146b)
+
+
 Prior to the beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset.
 
 # Executive Summary
