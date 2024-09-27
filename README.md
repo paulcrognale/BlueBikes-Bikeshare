@@ -11,9 +11,9 @@ Insights and recommendations are provided on the following key areas:
 - __Comparison analysis__
 - __Resource reallocation__
 
-An Interactive PowerBI dashboard can be downlaoded here
+An Interactive PowerBI dashboard can be downlaoded [here](https://github.com/paulcrognale/BlueBikes-Bikeshare/blob/main/BlueBike_Final_BI.pbix)
 
-The SQL queries regarding various business questions can be found here
+The SQL queries regarding various business questions can be found [here](https://github.com/paulcrognale/BlueBikes-Bikeshare/blob/main/Final_SQL.sql)
 
 # Data Structure Overview
 Blue Bikes data structure as seen below consists of five tables: bluebikes_stations, bluebikes_2016, bluebikes_2017, bluebikes_2018, bluebikes_2019 with a total row count of 6,840,320 records.
@@ -24,7 +24,7 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 ##__Overview of Findings__
 
-Overall ridership has been steadlily increasing over the entire four year period by an average of x% per year as well as an increase of $ revenue generated per trip in 2016 to $ in 2019. The bike share also shows great disparity between the most successful and least successful stations based off total revenue generated, total trips and revenue per bike dock. Outside of Harvard and MIT, where the majority of customers are subscriber based, there are two main hubs that operate out of Boston's South Central Station and Central Square in Cambridge. The former representing the largest transit hub in the city and the latter being a popular destination amongst tourists. 
+Overall ridership has been steadlily increasing over the entire four year period by an average of 11% per year as well as an increase of $11.45 revenue generated per trip in 2016 to $14.61 in 2019. The bike share also shows great disparity between the most successful and least successful stations based off total revenue generated, total trips and revenue per bike dock. Outside of Harvard and MIT, where the majority of customers are subscriber based, there are two main hubs that operate out of Boston's South Central Station and Central Square in Cambridge. The former representing the largest transit hub in the city and the latter being a popular destination amongst tourists. 
 
 **Insert Gif********
 
