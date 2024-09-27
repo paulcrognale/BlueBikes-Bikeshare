@@ -28,7 +28,7 @@ Overall ridership has been steadlily increasing over the entire four year period
 
 **Insert Gif********
 
-##__Station Usage__
+## __Station Usage__
 
 - The top 10 performing stations are all near either MIT or Harvard
 - There is a clear corelation between trips and revenue, although, several outliers are present due to the makeup of subscribers vs single ride users
@@ -37,8 +37,26 @@ Overall ridership has been steadlily increasing over the entire four year period
 - There are also several stations that operate near shorelines and bike baths that act as both a starting and ending station
 **insert spider web from tableau**
 
-##__Comparison Analysis__
+## __Comparison Analysis__
 - The 5 worst performing stations generate less than 10% of the average revenue of the top performing stations
 - Most notably, Central Sqaure and Glendan st both have 19 bike docks while the former had 101,992 trips and the latter just 392
 
+## __Resource Realocation__
+- The top 10 worst performing stations for each were were then tracked over the entire time series to identify potential targets for retirement
+- All stations have atleast 3 years of time on the grid, consistently rank among the lowest each year and have negative growth rates:
+  1. The Eddy
+  2. Bennington St
+  3. Chelsea St
+  4. Glendon St
+  5. Four Corners
+  ***Insert connors fav graph***
+
 # Recommendations
+
+Based on the analysis of the data the following reccomendations have been provided:
+
+- The five stations highlighted should be fully retired or alotted resources should be scaled back
+- The newly gained bike docks should then be redeployed to the stations with the highest trips to docks ratio
+- If preexisting stations cannot accomadate additional bike docks due to space restrictions then nearby stations should be created
+
+This will result in increased revenues of up tp 500% for the newly relocated bike costs while incurring no additional operating costs once the bikes have been moved.
